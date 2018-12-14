@@ -30,13 +30,21 @@ Node modules being used include: express, dotenv, cors, superagent and ejs.
 
 12-13-2018 12:35pm - Readme doc fully updated to start on features. Reset.css and eslintrc.json filled.
 
-12-13-2018 ______ - Completed feature 1
+12-14-2018 2:00am - Completed feature 1
 
   Number and name of feature: Feature 1 - Server-Side Rendering
   Estimate of time needed to complete: 1 hour
-  Start time: _____
-  Finish time: _____
-  Actual time needed to complete: _____
+  Start time: 12:45am
+  Finish time: 2:00am
+  Actual time needed to complete: 1 hour and 15 minutes
+
+12-14-2018 ______ - Completed feature 2
+
+  Number and name of feature: Feature 2 - Search the Google Books API
+  Estimate of time needed to complete: 1 hour
+  Start time: 2:30am
+  Finish time: 
+  Actual time needed to complete: 
 -->
 
 ## Credits and Collaborations
