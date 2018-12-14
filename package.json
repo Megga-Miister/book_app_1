@@ -1,0 +1,28 @@
+{
+  "name": "book_app_1",
+  "version": "1.0.0",
+  "description": "Book searcher/tracker that utilized the Google Books API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megga-Miister/book_app_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megga-Miister/book_app_1/issues"
+  },
+  "homepage": "https://github.com/Megga-Miister/book_app_1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "superagent": "^4.0.0"
+  }
+}
