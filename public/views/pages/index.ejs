@@ -16,6 +16,21 @@
   </header>
 
   <main>
+    <form action="/searches" method="post">
+      <label> Enter a title or author
+        <input type="text" name="search_query" required>
+      </label>
+
+      <label> Title
+        <input type="radio" name="query_type" value="input_title">
+      </label>
+      <label> Author
+        <input type="radio" name="query_type" value="input_author">
+      </label>
+
+      <button type="submit" >Search the Google Books API</button>
+
+    </form>
   </main>
 
   <footer>
